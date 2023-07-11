@@ -1,2 +1,2 @@
 # Condiçoes JavaScript
- Tipos de condiçoes em JavaScript. 
+ Praticando Condiçoes em JavaScript.
